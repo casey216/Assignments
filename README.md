@@ -1,1 +1,1 @@
-# DjangoCRUD
+# Assignments for week 5
