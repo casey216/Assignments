@@ -1,1 +1,1 @@
-# DjangoCRUD
+# Assignments
